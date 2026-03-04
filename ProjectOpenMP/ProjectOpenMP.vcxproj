@@ -128,7 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ProjectOpenMP.cpp" />
+    <ClCompile Include="2.cpp" />
+    <ClCompile Include="3.cpp" />
+    <ClCompile Include="ProjectOpenMP1L.cpp" />
+    <ClCompile Include="1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
